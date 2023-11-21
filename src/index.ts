@@ -8,9 +8,9 @@ window.onload = function(e) {
             <div class="card">
                 <img src="./assets/images/dev-code.png" />
                 <br>
-                <h2>This is my development server!</h2>
+                <h2>JS Development Server</h2>
                 <br>
-                <p>The environment uses webpack and babel to provide extensive features like JS complete support and development server with transpilation.</p>
+                <p>a simple environment powered by JavaScript (webpack and babel) provides extensive development server with transpilation, bundling, hot reloading, and complete JS-support.</p>
             </div>
         </div>
     </div>`;
